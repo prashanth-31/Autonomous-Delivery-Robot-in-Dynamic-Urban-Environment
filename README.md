@@ -1,0 +1,2 @@
+# Autonomous-Delivery-Robot-in-Dynamic-Urban-Environment
+This project simulates an autonomous delivery robot navigating a dynamic grid-based environment using Q-learning, a reinforcement learning algorithm. The robot learns to reach delivery goals while avoiding static and dynamic obstacles through trial and error. The system includes a Tkinter-based GUI, real-time animation and performance visualization
